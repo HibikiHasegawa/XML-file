@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<student>
+	<name>千葉花子</name>
+	<id>18TZZZZ</id>
+	<credit>80</credit>
+	<grades>
+		<grade>
+			<name>多変量解析</name>
+			<score>85</score>
+		</grade>
+		<grade>
+			<name>計算科学Ⅳ</name>
+			<score>90</score>
+		</grade>
+		<grade>
+			<name>英語</name>
+			<score>65</score>
+		</grade>
+	</grades>
+</student>
